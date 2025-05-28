@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DharaniTharan06
-- 👀 I’m interested in programing,app and web developing,etc..
-- 🌱 I’m currently learning python,java...
+- 👀 I’m interested in coding,web dev, building AI agents
+- 🌱 I’m currently learning react,node...
 - 💞️ I’m looking to collaborate on web developing and programing..
 - 📫 How to reach me - through email(duraisamydharanitharan@gmail.com)
 
